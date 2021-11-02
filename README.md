@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### :star: About Me
----
+--
 I am Bill Ye, I am continuously improving myself to become a **Data Analyst**. 
 
 Here are some ideas to get you started:
