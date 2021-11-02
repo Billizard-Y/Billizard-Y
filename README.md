@@ -7,8 +7,6 @@
 
 🥁 I play all kinds of percussion instruments including snare drums, drum set, marimba, timpani and so on. 
 
-📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/bill-ye/)
-
 ### 🔑 Skills
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=3776AB)  
