@@ -16,7 +16,7 @@ I am Bill Ye, Currently working at **ThermoFisher Scientific** as Data Scientist
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)  
-![Visualization-Power BI](https://img.shields.io/badge/-Visualization-F2C811?style=flat&logo=Power%20BI&logoColor=white&labelColor=F2C811) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=white&labelColor=F2C811)
+![Visualization-Power BI](https://img.shields.io/badge/Visualization-Power%20BI?style=flat&logo=Power%20BI&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=E97627)  
 ![](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Tool-Word-informational?style=flat&logo=MicrosoftWord&logoColor=white&color=2B579A)
