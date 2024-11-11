@@ -1,7 +1,9 @@
 ### ⭐ About Me
-🎓 I am Bill Ye, Master of business analytics graduate from **Sauder School of Business School at UBC**. I earned my Bachelor's degree at **Univeristy of Toronto** with Mathematical Application in Economics and Finance Specialist and Statistics Major. 
+I am Bill Ye, Currently working at **ThermoFisher Scientific** as Data Scientist after two years of duty at **Tesla Inc.**. Proudly been a part of the realization of the CyberTruck Dream. 
 
-💻 I am continuously learning and improving myself to become a **Data Analyst**. I have a strong interest and capability in analytical problems. I love giving people advices based on analysis of the big data and seeing what people can't normally see from the data. Being able to help others improve themselves and increase their value will always make me delighted.
+🎓 Master of business analytics graduate from **Sauder School of Business School at UBC**. Bachelor's degree at **Univeristy of Toronto** with Mathematical Application in Economics and Finance Specialist and Statistics Major. 
+
+💻 I am continuously learning and improving myself to become a better **Data Scientist**. I have a strong interest and capability in analytical problems. I love giving advices based on analysis of the big data and seeing what people can't normally see from the data. Being able to help the team to improve productivity and increase value will always make me delighted.**Python** and **Power BI** are my favourite weapons, while **Excel** and **SQL** also come in handy. 
 
 📸 Outside of the world of analytics, I love taking photos. Especially film photography. I develop, scan and process my b&w films all by myself. I am an experienced user of Adobe Lightroom. and I am developing my newe skills with Adobe Photoshop.  
 
