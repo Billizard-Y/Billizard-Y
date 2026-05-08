@@ -27,5 +27,5 @@ I am Bill Ye, Currently working at **ThermoFisher Scientific** as Data Scientist
 ![](https://img.shields.io/badge/Creativity-AdobeLightroom-informational?style=flat&logo=AdobeLightroom&logoColor=white&color=31A8FF)  
 
 ### 🔗 Links
-📫 E-mail: bill.ye.up@gmail.com  
+📫 E-mail: bill.ye.up /at gmail.com  
 📃 [LinkedIn Profile](https://www.linkedin.com/in/bill-ye/)  
