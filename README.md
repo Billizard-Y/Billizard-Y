@@ -1,5 +1,5 @@
 ### ⭐ About Me
-I am Bill Ye, Currently working at **ThermoFisher Scientific** as Data Scientist after two years of duty at **Tesla Inc.**. Proudly been a part of the realization of the CyberTruck Dream. 
+I am Bill Ye, Currently working at **ThermoFisher Scientific** as Data Scientist after two years of duty at **Tesla Inc.**. Proudly been a part of the CyberTruck Project. 
 
 🎓 Master of business analytics graduate from **Sauder School of Business School at UBC**. Bachelor's degree at **Univeristy of Toronto** with Mathematical Application in Economics and Finance Specialist and Statistics Major. 
 
